@@ -1,0 +1,5 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_SERVER1\NP_SERVER1\bin\Debug\NP_SERVER1.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_SERVER1\NP_SERVER1\bin\Debug\NP_SERVER1.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_SERVER1\NP_SERVER1\bin\Debug\NP_SERVER1.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_SERVER1\NP_SERVER1\obj\Debug\NP_SERVER1.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_SERVER1\NP_SERVER1\obj\Debug\NP_SERVER1.pdb
