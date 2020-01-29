@@ -1,0 +1,6 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_CLIENT1\NP_CLIENT1\bin\Debug\NP_CLIENT1.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_CLIENT1\NP_CLIENT1\bin\Debug\NP_CLIENT1.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_CLIENT1\NP_CLIENT1\bin\Debug\NP_CLIENT1.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_CLIENT1\NP_CLIENT1\obj\Debug\NP_CLIENT1.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_CLIENT1\NP_CLIENT1\obj\Debug\NP_CLIENT1.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\NP_CLIENT1\NP_CLIENT1\obj\Debug\NP_CLIENT1.pdb
